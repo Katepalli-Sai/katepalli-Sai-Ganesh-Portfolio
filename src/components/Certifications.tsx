@@ -133,7 +133,7 @@ const Certifications = () => {
     {
       title: 'MERN Stack Web Development',
       issuer: 'PrepInsta',
-      date: 'March 2024',
+      date: 'May 2024',
       description:
         'Learned to build full-stack applications using MongoDB, Express.js, React, and Node.js, including REST API integration and responsive UI design.',
       credentialUrl:
@@ -143,7 +143,7 @@ const Certifications = () => {
     {
       title: 'AWS Certified Solutions Architect – Associate',
       issuer: 'Infosys Springboard',
-      date: 'December 2023',
+      date: 'March 2025',
       description:
         'Gained in-depth knowledge of AWS architecture principles, cloud services, deployment strategies, and best practices for scalable solutions.',
       credentialUrl: 'https://drive.google.com/file/d/1XhnDIKhLkFk8xoJoFBaiwpdBNhGtLU3w/view',
@@ -152,7 +152,7 @@ const Certifications = () => {
     {
       title: 'Programming Using Java',
       issuer: 'Infosys Springboard',
-      date: 'November 2023',
+      date: 'October 2024',
       description:
         'Covered Java fundamentals, object-oriented programming, exception handling, collections, and building console-based and GUI applications.',
       credentialUrl: 'https://drive.google.com/file/d/1hE_umFXmYm0lsnBl0TNFRWLlEycn4Mkp/view',
