@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'Finquity - Financial Management Platform',
       description: 'A comprehensive financial management platform built with React and Node.js. Features include expense tracking, budget planning, investment portfolio management, and financial analytics.',
       image: 'https://images.pexels.com/photos/3483098/pexels-photo-3483098.jpeg?auto=compress&cs=tinysrgb&w=600',
-      technologies: ['React', 'Node.js', 'Typescript','Chart.js','tailwind CSS'],
+      technologies: ['React.js', 'Typescript','Chart.js','tailwind CSS'],
       liveLink: 'https://finequity.netlify.app/',
       githubLink: 'https://github.com/Katepalli-Sai/Finequity',
 
