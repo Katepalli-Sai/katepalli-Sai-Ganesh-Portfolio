@@ -133,7 +133,7 @@ const Certifications = () => {
     {
       title: 'MERN Stack Web Development',
       issuer: 'PrepInsta',
-      date: 'May 2024',
+      date: 'May 2025',
       description:
         'Learned to build full-stack applications using MongoDB, Express.js, React, and Node.js, including REST API integration and responsive UI design.',
       credentialUrl:
